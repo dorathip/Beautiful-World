@@ -1,0 +1,32 @@
+body{
+    color:blue;
+    background-color: lightblue;
+}
+
+h1 {
+
+    font-style: italic;font-weight: bold;
+}
+
+#doras-h1{
+
+    color: pink;
+}
+
+.fancy-border{
+
+    border: 3px dashed blue;
+
+}
+
+.fonty{
+
+    font-variant: small-caps;
+
+}
+h2 {
+     position: absolute;
+     left: 400px;
+     top: 500px;
+}
+
